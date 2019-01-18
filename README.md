@@ -1,4 +1,4 @@
 # Hello-world
 Touching the surface.
-I am learning GitHub for the final time.
+Deleted this middle line.
 First step completed successfully.
